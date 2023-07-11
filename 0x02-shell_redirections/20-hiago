@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'cC'result=$(echo "$input" | sed 's/[cC]//g')
+tr -d 'cC'
